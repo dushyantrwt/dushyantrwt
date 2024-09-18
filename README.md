@@ -1,4 +1,4 @@
----
+
 
 # 💻 Dushyant's GitHub Profile
 
@@ -31,14 +31,14 @@ I believe in using code to make the world a better place, one project at a time.
 ---
 
 ### 📫 **Let's Connect!**
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Replace with your actual LinkedIn URL -->
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dushyant-rawat-a28695306) <!-- Replace with your actual LinkedIn URL -->
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle) <!-- Replace with your Twitter handle -->
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [youremail@example.com](dushyantrawat150@gmail.com)
 
 ---
 
 ### 🔥 **GitHub Stats**
-![Dushyant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace "yourusername" with your GitHub username -->
+![Dushyant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyantrwt&show_icons=true&theme=radical) <!-- Replace "yourusername" with your GitHub username -->
 
 ---
 
