@@ -2,7 +2,7 @@
 
 # 💻 Dushyant's GitHub Profile
 
-![Banner Image or Profile GIF](https://yourbannerimageurl.com) <!-- Replace with your banner image or profile GIF link if you have one -->
+<!--![Banner Image or Profile GIF](https://yourbannerimageurl.com) <!-- Replace with your banner image or profile GIF link if you have one -->
 
 ## 👋 Hey there, I’m Dushyant!
 
