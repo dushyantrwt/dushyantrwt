@@ -32,7 +32,7 @@ I believe in using code to make the world a better place, one project at a time.
 
 ### 📫 **Let's Connect!**
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dushyant-rawat-a28695306) <!-- Replace with your actual LinkedIn URL -->
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) <!-- Replace with your Twitter handle -->
+<!--- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) <!-- Replace with your Twitter handle -->
 - **Email**: [youremail@example.com](dushyantrawat150@gmail.com)
 
 ---
@@ -44,9 +44,9 @@ I believe in using code to make the world a better place, one project at a time.
 
 ### ✨ **Top Repositories**
 <!-- Pin your top repos here if needed -->
-[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SCMS&theme=radical)](https://github.com/dixitk941/mentor-connect.git)
-[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=women-protection-app&theme=radical)](https://github.com/dixitk941/evesecure.git)
-[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bail-reckoner&theme=radical)](https://github.com/dixitk941/Bail-Racknor.git)
+[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SCMS&theme=radical)](https://github.com/dushyantrwt/mentor-connect-master.git)
+[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=women-protection-app&theme=radical)](https://github.com/dushyantrwt/evesecure-master.git)
+[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bail-reckoner&theme=radical)](https://github.com/dushyantrwt/Bailracknor.git)
 
 ---
 
