@@ -9,7 +9,7 @@
 I'm a **software engineer** with a passion for building innovative digital solutions. I love working on impactful projects that blend creativity with technology to solve real-world problems.
 
 ### 🌟 **Projects I'm Proud Of**:
-- **Smart Classroom Management Software (SCMS)** – A project aimed at enhancing classroom environments through automation and interactive learning.
+- **Mentor Connect**: A platform designed to seamlessly connect mentors and mentees, facilitating personalized guidance and career development through one-on-one interactions and curated learning resources.
 - **Women Protection App** – A safety-first app with real-time video streaming, voice-activated SOS, and parental control features.
 - **Bail Reckoner** – Simplifying the bail process for undertrial prisoners using **React.js** and **Tailwind CSS**.
 
@@ -44,15 +44,12 @@ I believe in using code to make the world a better place, one project at a time.
 
 ### ✨ **Top Repositories**
 <!-- Pin your top repos here if needed -->
-[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SCMS&theme=radical)](https://github.com/yourusername/SCMS)
-[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=women-protection-app&theme=radical)](https://github.com/yourusername/women-protection-app)
-[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bail-reckoner&theme=radical)](https://github.com/yourusername/bail-reckoner)
+[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SCMS&theme=radical)](https://github.com/dixitk941/mentor-connect.git)
+[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=women-protection-app&theme=radical)](https://github.com/dixitk941/evesecure.git)
+[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bail-reckoner&theme=radical)](https://github.com/dixitk941/Bail-Racknor.git)
 
 ---
 
 ### 🚀 **Let's Collaborate**
 I’m always open to collaborating on exciting projects, whether it’s for improving safety, education, or justice systems.
 
----
-
-Feel free to replace placeholders with actual links, and modify any section to fit your style!
