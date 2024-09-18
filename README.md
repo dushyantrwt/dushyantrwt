@@ -1,12 +1,10 @@
-Great! Based on your replies, I’ll craft a customized README for your GitHub profile:
-
 ---
 
-# 💻 Dushyan's GitHub Profile
+# 💻 Dushyant's GitHub Profile
 
 ![Banner Image or Profile GIF](https://yourbannerimageurl.com) <!-- Replace with your banner image or profile GIF link if you have one -->
 
-## 👋 Hey there, I’m Dushyan!
+## 👋 Hey there, I’m Dushyant!
 
 I'm a **software engineer** with a passion for building innovative digital solutions. I love working on impactful projects that blend creativity with technology to solve real-world problems.
 
@@ -40,7 +38,7 @@ I believe in using code to make the world a better place, one project at a time.
 ---
 
 ### 🔥 **GitHub Stats**
-![Dushyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace "yourusername" with your GitHub username -->
+![Dushyant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace "yourusername" with your GitHub username -->
 
 ---
 
