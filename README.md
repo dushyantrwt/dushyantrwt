@@ -31,9 +31,9 @@ I believe in using code to make the world a better place, one project at a time.
 ---
 
 ### 📫 **Let's Connect!**
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dushyant-rawat-a28695306) <!-- Replace with your actual LinkedIn URL -->
+- **LinkedIn**: [Dushyant Rawat](https://www.linkedin.com/in/dushyant-rawat-a28695306) <!-- Replace with your actual LinkedIn URL -->
 <!--- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) <!-- Replace with your Twitter handle -->
-- **Email**: [youremail@example.com](dushyantrawat150@gmail.com)
+- **Email**: [dushyantrawat150@gmail.com](dushyantrawat150@gmail.com)
 
 ---
 
@@ -44,12 +44,24 @@ I believe in using code to make the world a better place, one project at a time.
 
 ### ✨ **Top Repositories**
 <!-- Pin your top repos here if needed -->
-[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SCMS&theme=radical)](https://github.com/dushyantrwt/mentor-connect-master.git)
-[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=women-protection-app&theme=radical)](https://github.com/dushyantrwt/evesecure-master.git)
-[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bail-reckoner&theme=radical)](https://github.com/dushyantrwt/Bailracknor.git)
+[![SCMS](https://github-readme-stats.vercel.app/api/pin/?username=dushyantrwt&repo=SCMS&theme=radical)](https://github.com/dushyantrwt/mentor-connect-master.git)
+[![Women Protection App](https://github-readme-stats.vercel.app/api/pin/?username=dushyantrwt&repo=women-protection-app&theme=radical)](https://github.com/dushyantrwt/evesecure-master.git)
+[![Bail Reckoner](https://github-readme-stats.vercel.app/api/pin/?username=dushyantrwt&repo=bail-reckoner&theme=radical)](https://github.com/dushyantrwt/Bailracknor.git)
 
 ---
 
 ### 🚀 **Let's Collaborate**
 I’m always open to collaborating on exciting projects, whether it’s for improving safety, education, or justice systems.
+
+---
+
+### 🛠 **Languages & Tools**:  
+`React` `HTML5` `CSS3` `JavaScript` `Bootstrap` `Node.js` `Express` `C++` `C#` `Firebase` `GCP` `Git` `Haskell` `Heroku` `Linux` `Photoshop` `Python` `Sass` `Unity`
+
+---
+
+### 🌐 **Let's Connect**  
+- [LinkedIn](https://www.linkedin.com/in/dushyant-rawat-a28695306)  
+- [Gmail](dushyantrawat150@gmail.com)
+
 
